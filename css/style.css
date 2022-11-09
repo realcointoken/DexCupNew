@@ -2867,9 +2867,9 @@ a.metaportal_fn_videobutton:hover .fn__svg,
 
 
 .creative_link{
-	background-image: -moz-linear-gradient(90deg, var(--mc1), var(--mc1) 50%, #ddd 50%);
-	background-image: -webkit-linear-gradient(90deg, var(--mc1), var(--mc1) 50%, #ddd 50%);
-	background-image: linear-gradient(to right, var(--mc1), var(--mc1) 50%, #ddd 50%);
+	background-image: -moz-linear-gradient(90deg, var(--mc1), var(--mc1) 50%, #000 50%);
+	background-image: -webkit-linear-gradient(90deg, var(--mc1), var(--mc1) 50%, #000 50%);
+	background-image: linear-gradient(to right, var(--mc1), var(--mc1) 50%, #000 50%);
     background-size: 200% 100%;
     background-position: -100%;
     display: inline-block;
